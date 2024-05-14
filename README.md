@@ -1,4 +1,4 @@
-# 🌷 Yoojung Ryu 
+# 🌷 Yoojung Ryu 🌷
 
 <div align="center">
   <strong>⚙️ Teck Stack ⚙️</strong>
@@ -16,11 +16,21 @@
   <br/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=plastic&logo=styled-components&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF"/>
+  <br/>
+  <br/>
+  <strong>🎀 Team Collaboration Tools 🎀</h2>
+  <br/>
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/GitBook-BBDDE5?style=plastic&logo=gitbook&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=FFFFFF"/>
   <br/>
   <br/>
   <strong>✨ It's me! ✨</strong>
