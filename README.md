@@ -47,10 +47,8 @@
   <a href="https://www.instagram.com/u._.ryu__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
   <br/>
   <br/>
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default"/>
-  </a>
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default"/>
-  </a>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default" width="35%"/>
+  </div>  
 </div>
