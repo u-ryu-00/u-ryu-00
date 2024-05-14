@@ -1,5 +1,8 @@
 <div align="center">
   <h1>🌷 Yoojung Ryu 🌷</h1>
+  <strong>🐥 Hits 🐥</strong>
+  <br/>
+  <br/>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fu-ryu-00&count_bg=%23F3C1FF&title_bg=%233D67FF&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <br/>
   <br/>
@@ -42,11 +45,12 @@
   <a href="https://www.linkedin.com/in/u-ryu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=FFFFFF"/></a>
   <a href="https://wakatime.com/@u_ryu_" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=FFFFFF"/></a>
   <a href="https://www.instagram.com/u._.ryu__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
+  <br/>
+  <br/>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default"/>
+  </a>
+  <a href="s">
+    <img src="https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default"/>
+  </a>
 </div>
-<br/>
-<br/>
-
-![u-ryu-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default)
-
-
