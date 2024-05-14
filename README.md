@@ -31,7 +31,8 @@
   <a href="https://wakatime.com/@u_ryu_" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=FFFFFF"/></a>
   <a href="https://www.instagram.com/u._.ryu__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
 </div>
-
+<br/>
+<br/>
 ![u-ryu-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default)
 
