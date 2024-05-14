@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=redux&logoColor=FFFFFF"/>
   <br/>
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=plastic&logo=styled-components&logoColor=FFFFFF"/>
-  <br/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=FFFFFF"/>
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=FFFFFF"/>
@@ -24,6 +23,11 @@
   <br/>
   <br/>
   <strong>✨ It's me! ✨</strong>
-  <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+  <br/>
+  <br/>
+  <a href="https://velog.io/@u-ryu-00" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
+  <a href="www.linkedin.com/in/u-ryu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=FFFFFF"/></a>
+  <a href="https://wakatime.com/@u_ryu_" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=FFFFFF"/></a>
+  <a href="https://www.instagram.com/u._.ryu__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
 </div>
 
