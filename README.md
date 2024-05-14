@@ -1,7 +1,9 @@
-# 🌷 Yoojung Ryu 🌷
-
 <div align="center">
-  <strong>⚙️ Teck Stack ⚙️</strong>
+  <h1>🌷 Yoojung Ryu 🌷</h1>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fu-ryu-00&count_bg=%23F3C1FF&title_bg=%233D67FF&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <br/>
+  <br/>
+  <strong>👾 Teck Stack 👾</strong>
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=FFFFFF"/>
