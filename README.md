@@ -1,5 +1,9 @@
 # 🌷 Yoojung Ryu 
 
+⚙️ Teck Stack
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React">
+
+
 <!--
 **u-ryu-00/u-ryu-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
