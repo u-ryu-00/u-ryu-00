@@ -35,5 +35,6 @@
 <br/>
 
 ![u-ryu-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default)
 
 
