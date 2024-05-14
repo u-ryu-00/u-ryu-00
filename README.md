@@ -1,7 +1,7 @@
 # 🌷 Yoojung Ryu 
 
 ⚙️ Teck Stack
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React">
+<img src="https://img.shields.io/badge/React.js-61DAFB?logo=React">
 
 
 <!--
