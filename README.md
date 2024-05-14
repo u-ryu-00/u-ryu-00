@@ -49,6 +49,6 @@
   <br/>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default" width="50%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default" width="30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default" width="40%"/>
   </div>  
 </div>
