@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=FFFFFF"/>
   <br/>
   <br/>
   <strong>🎀 Team Collaboration Tools 🎀</h2>
