@@ -46,7 +46,7 @@
   <br/>
   <a href="https://velog.io/@u-ryu-00" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/u-ryu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=FFFFFF"/></a>
-  <a href="https://wakatime.com/@u_ryu_" target="_blank"><img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=WakaTime&logoColor=FFFFFF"/></a>
+  <a href="https://wakatime.com/@1296a10b-7179-41b1-880d-8a06229f3901"><img src="https://wakatime.com/badge/user/1296a10b-7179-41b1-880d-8a06229f3901.svg" alt="Total time coded since Jan 26 2023" /></a>
   <a href="https://www.instagram.com/u._.ryu__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
   <br/>
   <br/>
