@@ -33,6 +33,8 @@
   <img src="https://img.shields.io/badge/GitBook-BBDDE5?style=plastic&logo=gitbook&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=plastic&logo=adobexd&logoColor=FFFFFF"/>
+  <br/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=notion&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=FFFFFF"/>
