@@ -52,7 +52,7 @@
   <br/>
   <br/>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default" width="55%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default" width="40%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=u-ryu-00&show_icons=true&theme=default&count_private=true" width="55%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-ryu-00&layout=compact&theme=default&count_private=true" width="40%"/>
   </div>  
 </div>
