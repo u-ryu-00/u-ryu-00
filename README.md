@@ -1,4 +1,4 @@
-
+<div>
   <h1>Yoojung Ryu (Daisy)</h1>
   <h2>Product Engineer & Frontend Developer</h2>
   <strong>🌱 성취지향적인 개발자</strong>
@@ -65,7 +65,17 @@
   <strong>💌 Contact 💌</strong>
   <br/>
   <br/>
-  <a href="mailto:engineer.u.ryu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=FFFFFF"> 
+  <a href="mailto:engineer.u.ryu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=FFFFFF" /></a>
+  <br/>
+  <br/>
+  <strong>🥕 Farm 🥕</strong>
+  <br/>
+  <br/>
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/u-ryu-00"
+    width="600"
+    height="300"
+  />
   </a>
 </div>
