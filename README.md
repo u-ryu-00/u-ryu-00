@@ -1,6 +1,6 @@
 <div>
   <h1>Yoojung Ryu (Daisy)</h1>
-  <h2>Product Engineer & Frontend Developer</h2>
+  <h2>Product Engineer</h2>
   <strong>🌱 성취지향적인 개발자</strong>
   <p>새로운 지식을 습득하고 기술적으로 성장할 때 즐거움을 느끼며, 이를 동력으로 삼아 지속적으로 발전합니다.</p>
   <strong>📝 생산하는 개발자</strong>
