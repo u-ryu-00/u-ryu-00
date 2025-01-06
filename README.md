@@ -64,8 +64,7 @@
     <br/>
   <a href="https://velog.io/@u-ryu-00" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=FFFFFF"/></a>
   <a href="https://www.linkedin.com/in/u-ryu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=FFFFFF"/></a>
-  <a href="https://www.instagram.com/u._.ryu__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=FFFFFF"/></a>
-  <br/>
+    <br/>
   <br/>
   <strong>💌 Contact 💌</strong>
   <br/>
