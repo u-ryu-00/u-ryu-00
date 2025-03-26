@@ -15,12 +15,6 @@
   <br/>
   <br/>
   <div align="center">
-  <strong>🐥 Hits 🐥</strong>
-  <br/>
-  <br/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fu-ryu-00&count_bg=%23F3C1FF&title_bg=%233D67FF&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  <br/>
-  <br/>
   <strong>👾 Tech Stack 👾</strong>
   <br/>
   <br/>
