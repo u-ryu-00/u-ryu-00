@@ -13,6 +13,9 @@
   
   <a href="https://velog.io/@u-ryu-00/대학생-인턴이었던-내가-정신-차려보니-풀타임-개발자-2024년-회고록"><strong>🎬 2024년 회고 - 대학생 인턴이었던 내가 정신 차려보니 풀타임 개발자?</strong></a>
   <br/>
+  <a href="https://u-ryu-logs.tistory.com/78"><strong>📑 개발자 커리어 회고 - prologue</strong></a>
+
+  <br/>
   <br/>
   <div align="center">
   <strong>👾 Tech Stack 👾</strong>
