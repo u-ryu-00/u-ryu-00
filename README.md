@@ -18,6 +18,8 @@
   <a href="https://u-ryu-logs.tistory.com/79"><strong>🚀 2년차 프론트엔드 개발자 이직 회고 - 폐업, 이직, 다시 시작!</strong></a>
   <br/>
   <a href="https://u-ryu-logs.tistory.com/80"><strong>🚀 2년차 프론트엔드 개발자 이직 회고 - 이력서 작성부터 연봉 협상까지</strong></a>
+  <br/>
+  <a href="https://u-ryu-logs.tistory.com/82"><strong>🗺️ 입사 1주년 회고 - Introduction</strong></a>
 
   <br/>
   <br/>
